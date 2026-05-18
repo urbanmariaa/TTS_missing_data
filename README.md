@@ -1,5 +1,6 @@
 # TTS_research
-#Missing Data in Rare Cardiac Disease Registries ## TTS Missing Data Analysis  Code for the paper: 
+#Missing Data in Rare Cardiac Disease Registries
+## TTS Missing Data Analysis  Code for the paper: 
 **"Missing Data as a Methodological Challenge in Rare Cardiac Disease Registries: Mechanism Characterization, Imputation Benchmark, and Informative Missingness Analysis in Takotsubo Syndrome"**  
 #Journal: Computer Methods and Programs in Biomedicine Update DOI: [da aggiungere dopo accettazione]  
 ## Requirements  ```bash pip install -r requirements.txt ```  ## Data Availability  The clinical dataset cannot be shared publicly due to ethical and institutional data protection policies (Ethics Committee AOU Cagliari, Protocol NP/2022/788). A synthetic dataset for testing purposes is available at: [link da aggiungere] 
